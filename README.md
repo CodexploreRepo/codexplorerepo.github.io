@@ -7,6 +7,7 @@
 
 - Font: Poppins
 - Next.js, React.js, HTML, JS, SASS
+- Icon: https://iconscout.com/unicons/explore/line
 
 ### Commands
 
